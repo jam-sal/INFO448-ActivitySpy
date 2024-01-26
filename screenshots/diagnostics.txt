@@ -1,0 +1,7 @@
+2024-01-25 22:15:11.203  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onCreate event fired
+2024-01-25 22:15:11.220  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onStart event fired
+2024-01-25 22:15:11.223  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onResume event fired
+2024-01-25 22:15:18.351  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onPause event fired
+2024-01-25 22:15:18.366  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onStop event fired
+2024-01-25 22:15:57.292  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   I  onDestroy event fired
+2024-01-25 22:15:57.292  8422-8422  ActivitySpyLog          edu.uw.ischool.jsaleh1.activityspy   E  We're going down, Captain!
